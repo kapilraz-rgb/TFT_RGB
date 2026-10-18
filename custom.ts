@@ -35,7 +35,7 @@ enum Color {
     //% block="White"
     White = 0xFFFF,
     //% block="Orange"
-    Orange = 0xFD20,
+    Orange = 0xFC00,
     //% block="GreenYellow"
     GreenYellow = 0xAFE5,
     //% block="Pink"
